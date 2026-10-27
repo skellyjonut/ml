@@ -1,0 +1,4 @@
+.venv/
+__pycache__/
+fashion-mnist_train.csv
+mnist_train.csv
